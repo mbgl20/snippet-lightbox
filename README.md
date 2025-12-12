@@ -1,2 +1,62 @@
-# snippet-lightbox
-Small lightbox snippet to view media in html / php.
+<h1 align="center">snippet-lightbox</h1>
+<p align="center">view images • view videos • view audio</p>
+
+---
+
+## 📌 About
+
+This is a snippet for viewing any sort of media.
+
+The first version will come out soon! Stay tuned!
+
+---
+
+## 📀 DEMO
+
+# <a href="https://lb.demo.mabgl.com/" target="_blank">DEMO</a>
+
+---
+
+## 💻 Installation
+
+** [ 1 ] ** Drag 'n' drop the files into your webspace
+
+** [ 3 ] ** Head to the file with your media and add the `class="g"`, that will make the code respond to the images.
+
+** [ 4 ] ** Don't forget to include the file with `include 'g.php';` into your file, make sure it is a `.php`-file, not a `.html`-file.
+
+---
+
+## 🔧 Planed work
+
+ • Hop between the single images with `<` or `>` Symbols
+
+ • Same Game for Audio
+
+ • ...
+
+---
+
+## 📊 Progress
+
+🟩🟩🟩🟩🟩 -> Finished 100%
+
+⬛⬛⬛⬛⬛ -> Not even stared.
+
+
+Backend     🟨🟨🟨⬛⬛
+
+Frontend    🟩🟩🟩🟩⬛
+
+---
+
+
+## 📫 Contact
+
+If you want to contribute or just chat, feel free to reach out!  
+> Always open for ideas, feedback, and new projects.
+> Mail: mail@mabgl.com
+
+---
+
+<p align="center">✨ Thanks for visiting my project! Let's check it out and get in touch! ✨</p>
