@@ -23,7 +23,7 @@ The first version will come out soon! Stay tuned!
 
 ** [ 3 ] ** Head to the file with your media and add the `class="g"`, that will make the code respond to the images.
 
-** [ 4 ] ** Don't forget to include the file with `include 'g.php';` into your file, make sure it is a `.php`-file, not a `.html`-file.
+** [ 4 ] ** Don't forget to include the file with `include 'g.php';` into your file, make sure the file you are it including it is a `.php`-file, not a `.html`-file. A PHP file works the same like a html file, but adds the possibility to use php.
 
 ---
 
@@ -36,20 +36,6 @@ The first version will come out soon! Stay tuned!
  • ...
 
 ---
-
-## 📊 Progress
-
-🟩🟩🟩🟩🟩 -> Finished 100%
-
-⬛⬛⬛⬛⬛ -> Not even stared.
-
-
-Backend     🟨🟨🟨⬛⬛
-
-Frontend    🟩🟩🟩🟩⬛
-
----
-
 
 ## 📫 Contact
 
