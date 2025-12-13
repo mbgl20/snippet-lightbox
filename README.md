@@ -13,7 +13,7 @@ The first version will come out soon! Stay tuned!
 
 ## 📀 DEMO
 
-# <a href="https://lb.demo.mabgl.com/" target="_blank">DEMO</a>
+# <a href="https://mv.demo.mabgl.com/" target="_blank">DEMO</a>
 
 ---
 
