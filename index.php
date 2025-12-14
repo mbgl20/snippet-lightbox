@@ -28,12 +28,12 @@
 			<br><br><hr><br>
 			
 			<h1>Video (horizontal)</h1>
-			<img src="https://cdn.mabgl.com/germany/demos/mv/imgh.png" class="g" data-src="https://cdn.mabgl.com/germany/demos/mv/vid1.mp4" width="400" alt="vidHorizontal">
+			<img src="https://cdn.mabgl.com/germany/demos/mv/imgh.png" class="g v" data-src="https://cdn.mabgl.com/germany/demos/mv/vid1.mp4" width="400" alt="vidHorizontal">
 			
 			<br><br><hr><br>
 			
 			<h1>Video (vertical)</h1>
-			<img src="https://cdn.mabgl.com/germany/demos/mv/imgv.png" class="g" data-src="https://cdn.mabgl.com/germany/demos/mv/vidv.mp4" width="400" alt="vidVertical">
+			<img src="https://cdn.mabgl.com/germany/demos/mv/imgv.png" class="g v" data-src="https://cdn.mabgl.com/germany/demos/mv/vidv.mp4" width="400" alt="vidVertical">
 		</div>
 	</body>
 </html>
